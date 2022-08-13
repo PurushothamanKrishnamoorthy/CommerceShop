@@ -21,3 +21,17 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+
+config/
+database/
+package.json
+webpack.mix.js
+phpunit.xml
+bootstrap/
+artisan
+resources/
+storage/
+tests/
+server.php
+.gitignore
+public/
